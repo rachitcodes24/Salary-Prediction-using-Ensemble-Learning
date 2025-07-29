@@ -94,7 +94,7 @@ This returns a predicted salary score reflecting the learned relationships in th
 
 ## Author
 
-[Rachit Srivastava]
+Rachit Srivastava
 
 ---
 
